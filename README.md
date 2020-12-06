@@ -5,6 +5,8 @@ When clicking on the individual command you will see command duration (in millis
 
 ![Cypress command timings](images/timings.png)
 
+Read [Cypress Timings](https://glebbahmutov.com/blog/cypress-timings/)
+
 **Note:** This is NOT the exact command duration, since we are only getting an event some time after the command finishes. Still better to have approximate value than nothing.
 
 ## Install and use
