@@ -1,0 +1,29 @@
+{
+  "name": "cypress-timings",
+  "version": "1.0.0",
+  "description": "A Cypress plugin for reporting individual command timings",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahmutov/cypress-timings.git"
+  },
+  "keywords": [
+    "cypress",
+    "cypress-plugin",
+    "timing",
+    "performance"
+  ],
+  "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bahmutov/cypress-timings/issues"
+  },
+  "homepage": "https://github.com/bahmutov/cypress-timings#readme",
+  "devDependencies": {
+    "cypress": "6.0.1",
+    "prettier": "2.2.1"
+  }
+}
