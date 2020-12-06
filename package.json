@@ -1,15 +1,18 @@
 {
   "name": "cypress-timings",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "description": "A Cypress plugin for reporting individual command timings",
   "main": "index.js",
   "scripts": {
-    "test": "cypress run"
+    "test": "cypress run",
+    "semantic-release": "semantic-release"
   },
-  "files": ["index.js"],
+  "files": [
+    "index.js"
+  ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bahmutov/cypress-timings.git"
+    "url": "https://github.com/bahmutov/cypress-timings.git"
   },
   "keywords": [
     "cypress",
@@ -25,6 +28,7 @@
   "homepage": "https://github.com/bahmutov/cypress-timings#readme",
   "devDependencies": {
     "cypress": "6.0.1",
-    "prettier": "2.2.1"
+    "prettier": "2.2.1",
+    "semantic-release": "^17.3.0"
   }
 }

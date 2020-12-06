@@ -1,4 +1,4 @@
-# cypress-timings
+# cypress-timings [![ci status][ci image]][ci url]
 > A Cypress plugin for reporting individual command timings
 
 When clicking on the individual command you will see command duration (in milliseconds)
@@ -21,3 +21,6 @@ Add to your Cypress support file
 import { commandTimings } from 'cypress-timings'
 commandTimings()
 ```
+
+[ci image]: https://github.com/bahmutov/cypress-timings/workflows/ci/badge.svg?branch=main
+[ci url]: https://github.com/bahmutov/cypress-timings/actions
