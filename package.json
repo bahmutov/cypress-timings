@@ -6,6 +6,7 @@
   "scripts": {
     "test": "cypress run"
   },
+  "files": ["index.js"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bahmutov/cypress-timings.git"

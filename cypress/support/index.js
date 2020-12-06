@@ -1,0 +1,3 @@
+import { commandTimings } from '../..'
+
+commandTimings()
