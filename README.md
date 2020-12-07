@@ -1,4 +1,4 @@
-# cypress-timings [![ci status][ci image]][ci url] [![renovate-app badge][renovate-badge]][renovate-app] ![cypress version](https://img.shields.io/badge/cypress-6.0.1-brightgreen)
+# cypress-timings [![ci status][ci image]][ci url] [![badges status][badges image]][badges url] [![renovate-app badge][renovate-badge]][renovate-app] ![cypress version](https://img.shields.io/badge/cypress-6.0.1-brightgreen)
 > A Cypress plugin for reporting individual command timings
 
 When clicking on the individual command you will see command duration (in milliseconds)
@@ -64,5 +64,7 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 [ci image]: https://github.com/bahmutov/cypress-timings/workflows/ci/badge.svg?branch=main
 [ci url]: https://github.com/bahmutov/cypress-timings/actions
+[badges image]: https://github.com/bahmutov/cypress-timings/workflows/badges/badge.svg?branch=main
+[badges url]: https://github.com/bahmutov/cypress-timings/actions
 [renovate-badge]: https://img.shields.io/badge/renovate-app-blue.svg
 [renovate-app]: https://renovateapp.com/
