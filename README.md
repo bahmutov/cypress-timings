@@ -1,4 +1,4 @@
-# cypress-timings [![ci status][ci image]][ci url] [![renovate-app badge][renovate-badge]][renovate-app]
+# cypress-timings [![ci status][ci image]][ci url] [![renovate-app badge][renovate-badge]][renovate-app] ![cypress version](https://img.shields.io/badge/cypress-6.0.1-brightgreen)
 > A Cypress plugin for reporting individual command timings
 
 When clicking on the individual command you will see command duration (in milliseconds)
