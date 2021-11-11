@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/bahmutov/cypress-timings#readme",
   "devDependencies": {
-    "cypress": "8.7.0",
+    "cypress": "9.0.0",
     "prettier": "2.2.1",
     "semantic-release": "18.0.0"
   }
